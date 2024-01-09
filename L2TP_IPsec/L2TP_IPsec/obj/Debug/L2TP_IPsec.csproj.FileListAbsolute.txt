@@ -1,0 +1,10 @@
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.csprojAssemblyReference.cache
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.Form1.resources
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.Properties.Resources.resources
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.csproj.GenerateResource.cache
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.csproj.CoreCompileInputs.cache
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\bin\Debug\L2TP_IPsec.exe.config
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\bin\Debug\L2TP_IPsec.exe
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\bin\Debug\L2TP_IPsec.pdb
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.exe
+C:\Users\Ac\source\repos\L2TP_IPsec\L2TP_IPsec\obj\Debug\L2TP_IPsec.pdb
